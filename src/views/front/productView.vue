@@ -56,7 +56,7 @@ const product = reactive({
 const submitCart = () => {
   if (!valid.value) return
   editCart({ _id: product._id, quantity: quantity.value })
-}
+};
 
 (async () => {
   try {
