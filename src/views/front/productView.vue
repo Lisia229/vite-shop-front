@@ -1,4 +1,3 @@
-<!-- -商品頁 -->
 <template lang="pug">
 #product
   v-row
