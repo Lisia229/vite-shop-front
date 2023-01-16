@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+* {
+  font-family: 'Bangers', '微軟正黑體', cursive;
+}
+
+.a-class {
+  width: 200px;
+  height: 200px;
+}
+
+.pre {
+  white-space: pre;
+}
+
+.form {
+  width: 70%;
+  margin: auto;
+}
+
+.swal2-container {
+  z-index: 3000;
+}
